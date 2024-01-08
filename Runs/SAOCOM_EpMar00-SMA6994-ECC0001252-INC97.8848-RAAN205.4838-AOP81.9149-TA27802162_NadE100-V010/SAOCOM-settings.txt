@@ -1,0 +1,48 @@
+Parámetros de la simulación:
+
+- Epoch = 21 Mar 2023 00:00:00.000
+- SMA = 6994
+- ECC = 0.0001252
+- INC = 97.8848
+- RAAN = 205.4838
+- AOP = 81.9149
+- TA = 27802162
+- AttitudeReferenceBody = Earth
+- BodyAlignmentVectorX = 1
+- BodyAlignmentVectorY = 0
+- BodyAlignmentVectorZ = 0
+- AttitudeConstraintType = Velocity
+- BodyConstraintVectorX = 0
+- BodyConstraintVectorY = 1
+- BodyConstraintVectorZ = 0
+- Duración = 30 días
+- Step = 0.5 días
+
+Resultados:
+- Periodo = 5811.508196721311 segundos
+- Cantidad de órbitas simuladas = 447
+- Paneles solares:
+	Panel 1: [0, 1, 0]
+
+Parámetros de la simulación WC:
+
+- Epoch = '21 Mar 2023 00:00:00.000'
+- SMA = 6994.0
+- ECC = 0.0001252
+- INC = 97.885
+- RAAN = 205.48
+- AOP = 81.915
+- TA = 82.0
+- AttitudeReferenceBody = Earth
+- BodyAlignmentVectorX = 1
+- BodyAlignmentVectorY = 0
+- BodyAlignmentVectorZ = 0
+- AttitudeConstraintType = Velocity
+- BodyConstraintVectorX = 0
+- BodyConstraintVectorY = 1
+- BodyConstraintVectorZ = 0
+- Duración = 0.567262826350941 días
+- Step = 0.00034722222222222224 días
+
+Resultados WC:
+- Cantidad de órbitas simuladas = 9
