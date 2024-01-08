@@ -1,0 +1,20 @@
+Epoch = '12 Nov 2011 12:00:00.000'
+SMA = 8000
+ECC = 0.01
+INC = 60
+RAAN = 0
+AOP = 0
+TA = 0
+Attitude = NadirPointing
+AttitudeReferenceBody = Earth
+BodyAlignmentVectorX = 1
+BodyAlignmentVectorY = 0
+BodyAlignmentVectorZ = 0
+AttitudeConstraintType = Velocity
+BodyConstraintVectorX = 0
+BodyConstraintVectorY = 0
+BodyConstraintVectorZ = 1
+
+Resultados:
+Periodo = 7112.586650774732
+Cantidad de órbitas simuladas = 7

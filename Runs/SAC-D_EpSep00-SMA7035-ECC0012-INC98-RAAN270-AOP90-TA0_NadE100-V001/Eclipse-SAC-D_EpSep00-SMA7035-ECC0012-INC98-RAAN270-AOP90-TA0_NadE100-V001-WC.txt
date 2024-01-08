@@ -1,0 +1,11 @@
+Spacecraft: Sat
+
+Start Time (UTC)            Stop Time (UTC)               Duration (s)    Occ Body        Type        Event Number  Total Duration (s)
+20 Jun 2012 12:49:57.919    20 Jun 2012 13:08:43.381      1125.4621749    Earth           Umbra       1             1125.4621749
+
+Number of individual events : 1
+Number of total events      : 1
+Maximum duration (s)        :   1125.4621749
+Maximum duration at the 1st eclipse.
+
+

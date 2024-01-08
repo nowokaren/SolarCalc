@@ -1,0 +1,13 @@
+Spacecraft: Sat
+
+Start Time (UTC)            Stop Time (UTC)               Duration (s)    Occ Body        Type        Event Number  Total Duration (s)
+21 Dec 2023 01:03:47.791    21 Dec 2023 01:37:03.718      1995.9264687    Earth           Umbra       1             1995.9264687
+21 Dec 2023 02:42:46.501    21 Dec 2023 03:16:02.346      1995.8450205    Earth           Umbra       2             1995.8450205
+21 Dec 2023 04:21:45.284    21 Dec 2023 04:55:01.046      1995.7619847    Earth           Umbra       3             1995.7619847
+
+Number of individual events : 3
+Number of total events      : 3
+Maximum duration (s)        :   1995.9264687
+Maximum duration at the 1st eclipse.
+
+

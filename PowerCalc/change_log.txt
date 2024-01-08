@@ -1,0 +1,24 @@
+Versión 0.9: 
+- Segun el consumo ingresado da la cantidad de paneles para tener balance 0 y muestra la potencia y energía acumulada en función del tiempo para cada cara y para el caso final teniendo en cuenta la cantidad de celdas por cara.
+- Guarda un reporte igual a lo que imprime en consola en Spyder
+
+Versión 1: Guarda los gráficos en carpetas para cada caso: Laboratorio, BOL, EOL
+
+Versión 101: Incluye una función para generar un cell_faces según el usuario quiera ingresarlo (eligiendo las caras o pidiendo que elija las caras de mayor radiación) (según superficie disponible)
+
+Versión 102: Para poder ingresar un consumo y calcular la cantidad de paneles o ingresar la cantidad de paneles y calcular el consumo, se agrego una funcion y unas variable en el .ini que permiten ingresar los paneles de distintas formas. Falta verificar que funcionan 
+
+Versión 103: Cambios de la versión 102 organizados y funcionando. 
+
+Versión 110:
+- La función distribution_cell puede seleccionar la cantidad de celdas necesarias para ese consumo SEGUN LA SUPERFICIE DISPONIBLE. Antes solo organizaba segun porcentaje indicado.
+- En cada ejecución de este programa se crea una carpeta en la carpeta de la simulacion de la orbita con el nombre del tipo de distribucion elegida. Los resultados de PowerCalc no se superponen para la misma órbita.
+- settings_v110 es el actualizado correspondiente a esta version de PowerCalc.
+
+Versión 112: 
+- Se le agregó un tipo de actitud al input.
+- Ahora que con la version 121 se pueden generar resultados de distintos intervalos de tiempo, se puede analizar la potencia de ese período cambiando en settings.ini el nombre en [mision]>case = “nombre del intervalo de tiempo”.
+
+Version 113: 
+- Pedido de la longitud de sup_disp correcta. Se calcula cuantos paneles agregados hay y cuantos casos corrieron en la ejecución de SolarAng estudiada.
+- Guarda un reporte con la potencia y otro con las energias.

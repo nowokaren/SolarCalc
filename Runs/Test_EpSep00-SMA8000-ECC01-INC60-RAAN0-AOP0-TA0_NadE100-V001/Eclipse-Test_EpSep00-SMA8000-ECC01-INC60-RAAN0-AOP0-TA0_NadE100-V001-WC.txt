@@ -1,0 +1,18 @@
+Spacecraft: Sat
+
+Start Time (UTC)            Stop Time (UTC)               Duration (s)    Occ Body        Type        Event Number  Total Duration (s)
+12 Nov 2011 12:00:00.000    12 Nov 2011 12:29:21.998      1761.9982041    Earth           Umbra       1             1761.9982041
+12 Nov 2011 13:57:08.500    12 Nov 2011 14:27:57.642      1849.1422119    Earth           Umbra       2             1849.1422119
+12 Nov 2011 15:55:46.920    12 Nov 2011 16:26:33.303      1846.3829613    Earth           Umbra       3             1846.3829613
+12 Nov 2011 17:54:25.383    12 Nov 2011 18:25:08.985      1843.6016817    Earth           Umbra       4             1843.6016817
+12 Nov 2011 19:53:03.847    12 Nov 2011 20:23:44.662      1840.8148817    Earth           Umbra       5             1840.8148817
+12 Nov 2011 21:51:42.283    12 Nov 2011 22:22:20.311      1838.0282320    Earth           Umbra       6             1838.0282320
+12 Nov 2011 23:50:20.737    13 Nov 2011 00:20:55.979      1835.2413682    Earth           Umbra       7             1835.2413682
+13 Nov 2011 01:48:59.310    13 Nov 2011 01:59:00.000      600.69024602    Earth           Umbra       8             600.69024602
+
+Number of individual events : 8
+Number of total events      : 8
+Maximum duration (s)        :   1849.1422119
+Maximum duration at the 2nd eclipse.
+
+

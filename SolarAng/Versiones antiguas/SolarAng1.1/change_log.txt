@@ -1,0 +1,9 @@
+Versión 1.1:
+1) Para cada simulación realizada en la ejecución se calcula el plano de máxima incidencia solar, se calculan sus cosenos y se grafica junto con el resto de las caras y paneles agregados. 
+	- En orbital_mec.py se agregaron 3 funciones: 
+		- plano_max y optimiz_iter, que calculan el plano que maximiza la suma de cosenos haciendo un mapeo gráfico de dicha suma y eligiendo el máximo, o iterando, respectivamente. El primero guarda los mapas en una carpeta planos_optimizacion.
+		- add_plano_max, que usa plano_max, calcula los cosenos correspoiendentes y los agrega a la matriz de cosenos para poder guardarlo y graficarlo
+	- En solar_ang.py se agregó el uso de las nuevas funciones.
+2) Lectura de los parámetros de la ejecución (inputs) desde un archivo de texto plano (.ini).
+
+!!![Rutas de Runs referenciadas como en SolarCalc. → cambiar]!!!
